@@ -1,2 +1,2 @@
-# Repositorio-Eric
-Repositorio de projetos
+# Portfolio-Eric
+Portfolio de projetos
